@@ -30,9 +30,9 @@ function ShoppingListCheckOffService(){
   var toBuyItems = [
   {name: "cookies", quantity: 10},
   {name: "cookies", quantity: 20},
-  {name: "cookies", quantity: 10},
-  {name: "cookies", quantity: 10},
-  {name: "cookies", quantity: 10}
+  {name: "cookies", quantity: 30},
+  {name: "cookies", quantity: 40},
+  {name: "cookies", quantity: 50}
 ];
 
 var boughtItems = [];
